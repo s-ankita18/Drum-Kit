@@ -1,5 +1,5 @@
 
-**[CLICK HERE TO SEE MY SITE](https://s-ankita18.github.io/Drum-Kit/)**
+**[CLICK HERE TO SEE MY SITE](https://github.com/s-ankita18/Drum-Kit.git)**
 
 This Drum Kit project is an interactive web-based application that allows users to play different drum sounds by either clicking on the on-screen buttons or pressing specific keys on the keyboard. The application is built using HTML, CSS, and JavaScript, and it provides a fun way to experiment with different drum sounds.
 
